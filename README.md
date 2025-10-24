@@ -24,20 +24,34 @@ Aplikasi sederhana berbasis Streamlit untuk mencatat, menghitung, dan menampilka
 
 ## 🎥 Tampilan Mentah
 1. Tampilan Awal
-   ![WhatsApp Image 2025-10-24 at 20 13 54_0bdf1a33](https://github.com/user-attachments/assets/575aece7-3532-4d8b-bb9a-4014300e1d13)
-
-3. T
-4. t
-5. t
-6. t
-7. t
-8. t
-9. t
-10. t
-11. t
-12. t
-
-13. t
+   ![Tampilan Awal](Image/Tampilan%20awal.jpg)
+2. Tampilan update tanpa setoran
+   - Sebelum :
+     ![Tanpa setoran](Image/Tampilan%20update%20nasabah%20tanpa%20setoran.jpg)
+   - Sesudah :
+     ![Tampilan Awal](Image/Tampilan%20awal%20berubah.jpg)
+3. Tampilan update dengan setoran
+   - Sebelum :
+     ![Tanpa setoran](Image/Tampilan%20update%20nasabah%20dengan%20setoran.jpg)
+   - Sesudah :
+     ![Tampilan Awal](Image/Tampilan%20awal%20berubah%20pt.2.jpg)
+4. Tampilan jika nasabah setor
+   - Sebelum :
+     ![Tampilan Awal](Image/Tampilan%20jika%20nasabah%20setor.jpg)
+   - Sesudah :
+     ![Tampilan Awal](Image/Tampilan%20awal%20berubah%20pt.3.jpg)
+5. Tampilan jika nasabah ambil
+   - Sebelum :
+     ![Tampilan Awal](Image/Tampilan%20jika%20nasabah%20penarikan.jpg)
+   - Sesudah : 
+     ![Tampilan Awal](Image/Tampilan%20awal%20berubah%20pt.4.jpg)
+6. Tampilan jika nasabah ambil namun saldo kurang
+   ![Tampilan Awal](Image/Tampilan%20nasabah%20ambil%20tpi%20saldo%20kurang.jpg)
+7. Tampilan menghapus data nasabah
+   - Sebelum :
+      ![Tampilan Awal](Image/Tampilan%20menghapus%20data%20nasabah.jpg)
+   - Sesudah :
+      ![Tampilan Awal](Image/Tampilan%20awal%20berubah%20pt.5.jpg)
 
 ## 👩‍💻 Pembuat
 **Uswatun Khasanah**  
